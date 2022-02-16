@@ -8,7 +8,7 @@
   margin-top: 10px;
 }
 
-.form-fieldset .form-field:nth-child(2) {
+.form-field:nth-child(2) {
   margin: 0;
 }
 
